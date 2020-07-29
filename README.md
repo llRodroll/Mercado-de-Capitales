@@ -6,3 +6,4 @@
 * Funcionamiento de los mercados en Colombia
 * Plataforma e-bvc
 
+## Segundo Corte
